@@ -1,0 +1,156 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: okio/Sink.kotlin_metadata
+SHA1-Digest: sgQcsPAl7omZDGC46cz9k1xehoo=
+
+Name: okio/OkioKt.kotlin_metadata
+SHA1-Digest: /SUeRl+Gpd/B+gNPC510FSw7r2k=
+
+Name: okio/_CommonPlatformKt.kotlin_metadata
+SHA1-Digest: Iho1MOxLnke2bb7dg7UdIPgf4pA=
+
+Name: okio/internal/_BufferKt.kotlin_metadata
+SHA1-Digest: xqhHWV4v6FSwisy1DDXVatxXM9k=
+
+Name: okio/Buffer.kotlin_metadata
+SHA1-Digest: X3jwa7t/gphfxyG8I/1fWF17pAs=
+
+Name: okio/Closeable.kotlin_metadata
+SHA1-Digest: xUh5rsG5wShyNZqu/iAP8ny296E=
+
+Name: okio/EOFException.kotlin_metadata
+SHA1-Digest: VZIpVJnZnTMhc0dhYYUQYj2/4SU=
+
+Name: okio/internal/_RealBufferedSourceKt.kotlin_metadata
+SHA1-Digest: aa4jme1RUh4ejpjRMZw+1vG8uN0=
+
+Name: okio/BlackholeSink.kotlin_metadata
+SHA1-Digest: xwhPbaG6hTAnex9wcYSN8lr87Hg=
+
+Name: okio/internal/_SegmentedByteStringKt.kotlin_metadata
+SHA1-Digest: y/nyDAhJ5DRWTVw5FEPInuPd9Rs=
+
+Name: okio/internal/_ByteStringKt.kotlin_metadata
+SHA1-Digest: 6g3M9r3EmxegVEOq3yRPcCxxNAM=
+
+Name: okio/ArrayIndexOutOfBoundsException.kotlin_metadata
+SHA1-Digest: VsKAOVyXZX14HLBCNgtr/SYnSnk=
+
+Name: okio/PeekSource.kotlin_metadata
+SHA1-Digest: KBE3JHH2+qD+12Pc0OoJ63GuMFQ=
+
+Name: okio/FileMetadata.kotlin_metadata
+SHA1-Digest: UxPMCH0fCzt59W/4+uR99fwHdr0=
+
+Name: okio/Segment.kotlin_metadata
+SHA1-Digest: YjiI1jfjt1jsHLzB+xyi6USvQws=
+
+Name: okio/Options.kotlin_metadata
+SHA1-Digest: EMGMv/7n69enASQEWMFpEYCBhU4=
+
+Name: okio/Timeout.kotlin_metadata
+SHA1-Digest: R7FD+65aveYgDD32f+vgJYlJ8PY=
+
+Name: okio/internal/_RealBufferedSinkKt.kotlin_metadata
+SHA1-Digest: wq1cD5nZXINTr4/ISAmjSydLN68=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: iRE8ZRXPNyANTGrOy0hQUNx7AiE=
+
+Name: okio/internal/_Utf8Kt.kotlin_metadata
+SHA1-Digest: FtKj7lJvowWq6LKtRovbaogK9Zw=
+
+Name: okio/_UtilKt.kotlin_metadata
+SHA1-Digest: +jaxcnWsKanOnI9WFvLP8t5PS+E=
+
+Name: okio/SegmentPool.kotlin_metadata
+SHA1-Digest: U65unblyHf8Bqc55KF+wjmKh1ZA=
+
+Name: okio/FileHandle.kotlin_metadata
+SHA1-Digest: FEvClORgyvDjY+7rSGed7xNxxAo=
+
+Name: resources.arsc
+SHA1-Digest: GIJLaGqB8CPdzeBuvKaQ6LddqS4=
+
+Name: okio/SegmentedByteString.kotlin_metadata
+SHA1-Digest: ufd0+viCf/z5N2+dfiSOxCz9wEw=
+
+Name: okio/internal/_PathKt.kotlin_metadata
+SHA1-Digest: BdhrXn7Ussm30Cu+ake/MvA+nlU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: WvJkpN2U0dOXmRthO+4BzcxGOiQ=
+
+Name: okio/RealBufferedSource.kotlin_metadata
+SHA1-Digest: GelbMqFYUM4H1JYxPz+wGTDXZgc=
+
+Name: okio/ByteString.kotlin_metadata
+SHA1-Digest: o7a5Ej6bP6rCD6YWWWkdU1LFddo=
+
+Name: okio/FileSystem.kotlin_metadata
+SHA1-Digest: fClMfQOisRPuczk7C5EppX/MHx0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: wFbjvJdYXbqV/pUwWQXbEnY8E6s=
+
+Name: okio/BufferedSink.kotlin_metadata
+SHA1-Digest: IqcTjx3XFuRt8UyvmxyTI9wTwu0=
+
+Name: res/layout-v17/activity_main.xml
+SHA1-Digest: n/Dr+FR8iXENvSGjZB0XGyi/fAw=
+
+Name: okio/Utf8Kt.kotlin_metadata
+SHA1-Digest: 5oIrs/Vv+oS8V1azPViqoKORtvY=
+
+Name: okio/_Base64Kt.kotlin_metadata
+SHA1-Digest: n2wkUGQLNDQVQiSuCqQJKNi/nyo=
+
+Name: okio/HashingSource.kotlin_metadata
+SHA1-Digest: 3AA1ipGWD9uvVV1VJz0+ZF8ZPuc=
+
+Name: okio/IOException.kotlin_metadata
+SHA1-Digest: 57Nr2mGTcoUd52wX4wShqacJv4Q=
+
+Name: okio/RealBufferedSink.kotlin_metadata
+SHA1-Digest: I1bYJhfbXk/Bb6lcZ1vZGwU4y04=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: SZU3LHxypmaB1aHEniyssDUXfbo=
+
+Name: okio/Path.kotlin_metadata
+SHA1-Digest: DhXxsQNrbn9c5ah5aV8C8fcOFls=
+
+Name: okio/HashingSink.kotlin_metadata
+SHA1-Digest: t5pjD4VUs2P8e4o0Q2I8xWZL/aw=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: A8HYOP5kiA6RNl1b3EcKWXP4frI=
+
+Name: okio/internal/_FileSystemKt.kotlin_metadata
+SHA1-Digest: i/XQ365cJKsCVvkDxVvgnBUUYQ8=
+
+Name: okio/BufferedSource.kotlin_metadata
+SHA1-Digest: 8Bj7JwK3ZD1EFyj1aDgX2wZxjMA=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: xDmdiF+bBqn9NU7zslz+INQXnYc=
+
+Name: okio/ExperimentalFileSystem.kotlin_metadata
+SHA1-Digest: FRbP1ue+NBKSyeY5YTMy9F1+mnU=
+
+Name: okio/FileNotFoundException.kotlin_metadata
+SHA1-Digest: h4EFqYz3FiMFTnubqhZ1w4VybR4=
+
+Name: okio/ForwardingFileSystem.kotlin_metadata
+SHA1-Digest: PWWRUvaO6+qsI2fOPoWSBxwyWUI=
+
+Name: okio/Source.kotlin_metadata
+SHA1-Digest: omL9bhk8VMofOlSMQUJFSzfGLV4=
+
+Name: classes.dex
+SHA1-Digest: 8DzochRl1QQVuQM3ykLrLcW2ddg=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: QI2GK5q+fJV1H1OeVniSrwrWUr8=
+

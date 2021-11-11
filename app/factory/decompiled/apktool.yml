@@ -1,0 +1,64 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Startbot.apk
+compressionType: false
+doNotCompress:
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '11'
+  targetSdkVersion: '22'
+sharedLibrary: false
+sparseResources: true
+unknownFiles:
+  okio/ArrayIndexOutOfBoundsException.kotlin_metadata: '8'
+  okio/BlackholeSink.kotlin_metadata: '8'
+  okio/Buffer.kotlin_metadata: '8'
+  okio/BufferedSink.kotlin_metadata: '8'
+  okio/BufferedSource.kotlin_metadata: '8'
+  okio/ByteString.kotlin_metadata: '8'
+  okio/Closeable.kotlin_metadata: '8'
+  okio/EOFException.kotlin_metadata: '8'
+  okio/ExperimentalFileSystem.kotlin_metadata: '8'
+  okio/FileHandle.kotlin_metadata: '8'
+  okio/FileMetadata.kotlin_metadata: '8'
+  okio/FileNotFoundException.kotlin_metadata: '8'
+  okio/FileSystem.kotlin_metadata: '8'
+  okio/ForwardingFileSystem.kotlin_metadata: '8'
+  okio/HashingSink.kotlin_metadata: '8'
+  okio/HashingSource.kotlin_metadata: '8'
+  okio/IOException.kotlin_metadata: '8'
+  okio/OkioKt.kotlin_metadata: '8'
+  okio/Options.kotlin_metadata: '8'
+  okio/Path.kotlin_metadata: '8'
+  okio/PeekSource.kotlin_metadata: '8'
+  okio/RealBufferedSink.kotlin_metadata: '8'
+  okio/RealBufferedSource.kotlin_metadata: '8'
+  okio/Segment.kotlin_metadata: '8'
+  okio/SegmentPool.kotlin_metadata: '8'
+  okio/SegmentedByteString.kotlin_metadata: '8'
+  okio/Sink.kotlin_metadata: '8'
+  okio/Source.kotlin_metadata: '8'
+  okio/Timeout.kotlin_metadata: '8'
+  okio/Utf8Kt.kotlin_metadata: '8'
+  okio/_Base64Kt.kotlin_metadata: '8'
+  okio/_CommonPlatformKt.kotlin_metadata: '8'
+  okio/_UtilKt.kotlin_metadata: '8'
+  okio/internal/_BufferKt.kotlin_metadata: '8'
+  okio/internal/_ByteStringKt.kotlin_metadata: '8'
+  okio/internal/_FileSystemKt.kotlin_metadata: '8'
+  okio/internal/_PathKt.kotlin_metadata: '8'
+  okio/internal/_RealBufferedSinkKt.kotlin_metadata: '8'
+  okio/internal/_RealBufferedSourceKt.kotlin_metadata: '8'
+  okio/internal/_SegmentedByteStringKt.kotlin_metadata: '8'
+  okio/internal/_Utf8Kt.kotlin_metadata: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'
